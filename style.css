@@ -1,0 +1,8 @@
+.judul {
+  text-decoration: underline !important;
+}
+
+[type=button] {
+  color: orange;
+  font-size: 20px;
+}
